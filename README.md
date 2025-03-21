@@ -22,6 +22,7 @@ Working Group Charters:
 1. [ActivityPub Maintenance Working Group Charter](https://swicg.github.io/potential-charters/ap-maintenance-wg-charter.html) (ActivityPub-only, maintenance only)
 2. [SocialWeb Maintenance Working Group Charter](https://swicg.github.io/potential-charters/social-web-maintenance-wg-charter.html) (All Social Web Working Group documents, maintenance only)
 3. [IndieWeb Maintenance Working Group Charter](https://swicg.github.io/potential-charters/indieweb-maintenance-wg-charter.html)
+4. [ActivityPub 1.1 Working Group Charter](https://swicg.github.io/potential-charters/ap-1.1-wg-charter.html)
 
 We recommend previewing your own PRs by simply opening the HTML file in a browser
 (locally), and previewing those of others by clicking into the "Files" view of
