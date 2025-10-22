@@ -16,7 +16,7 @@ This is a proposal to break proposals into 5 stages of maturity, with clear guid
 * [Stage 3](#stage-3-implementation-and-normative-draft-working-group):
   **Implementation** of the preferred Proposal
 * [Stage 4](#stage-4-publication-or-re-publication-working-group):
-  **Publication** of a Proposed Recommendation
+  **Publication** of a Recommendation
 
 These stages support the W3C process and provide structure and clarity for all
 work guided by the Community Group. Doing work at any stage is not a commitment
@@ -112,7 +112,7 @@ post-facto IP grants from all substantial contributors).
     develop the feature or proposal (e.g.,
     [example](https://github.com/swicg/activitypub-http-signature)).
   * [ ] If there is enough interest and diversity of contributors, a CG Task
-    Force can often be helpfully proposed at this point to house and track
+    Force can often be helpfully  at this point to house and track
     discussions, but is not a requirement. Particularly for features with IPR
     consequences, task forces can be helpful for pushing sensitive discussions
     inside the IPR boundaries of the community group.
@@ -183,8 +183,8 @@ Recommendation](https://www.w3.org/policies/process/#RecsCR).
   * [ ] Working Group consensus that the [Candidate
     Recommendation](https://www.w3.org/policies/process/#RecsCR)'s
     implementation experience is complete and
-  * [ ] Working Group consensus to publish it as a [Proposed
-    Recommendation](https://www.w3.org/policies/process/#RecsPR)
+  * [ ] Working Group consensus to publish it as a
+    [Recommendation](https://www.w3.org/policies/process/#RecsREC)
 
 ## Prior Art
 
