@@ -112,7 +112,7 @@ post-facto IP grants from all substantial contributors).
     develop the feature or proposal (e.g.,
     [example](https://github.com/swicg/activitypub-http-signature)).
   * [ ] If there is enough interest and diversity of contributors, a CG Task
-    Force can often be helpfully  proposed at this point to house and track
+    Force can often be helpfully proposed at this point to house and track
     discussions, but is not a requirement. Particularly for features with IPR
     consequences, task forces can be helpful for pushing sensitive discussions
     inside the IPR boundaries of the community group.
