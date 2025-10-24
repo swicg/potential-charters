@@ -183,7 +183,7 @@ Recommendation](https://www.w3.org/policies/process/#RecsCR).
   * [ ] Working Group consensus that the [Candidate
     Recommendation](https://www.w3.org/policies/process/#RecsCR)'s
     implementation experience is complete and
-  * [ ] Working Group consensus to publish it as a
+  * [ ] Working Group consensus to request transition to
     [Recommendation](https://www.w3.org/policies/process/#RecsREC)
 
 ## Prior Art
