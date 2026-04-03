@@ -1,6 +1,6 @@
-# Potential SWICG Charters
+# Social Web Community Group Charters
 
-Discussion of potential CG and WG charters
+Discussion of Social Web CG and WG charters
 
 ## Contributing
 
@@ -14,15 +14,15 @@ When in doubt, email the mailing list!
 
 Community Group Charters:
 
-- [Community Group Charter](https://swicg.github.io/potential-charters/CGCharter-1727386911.html) (Adopted Feb 2025)
-- [Stage Process](https://swicg.github.io/potential-charters/stage-process) (in progress)
+- [Community Group Charter](https://swicg.github.io/charters/SocialWebCG-Charter-2025-02.html) (Adopted Feb 2025)
+- [Stage Process](https://swicg.github.io/charters/stage-process) (in progress)
 
 Working Group Charters:
 
-1. [ActivityPub Working Group Charter](https://swicg.github.io/potential-charters/ap-wg-charter.html) (ActivityPub-only, maintenance only)
-2. [SocialWeb Working Group Charter](https://swicg.github.io/potential-charters/social-web-wg-charter.html) (All Social Web Working Group documents, maintenance only)
-3. [IndieWeb Working Group Charter](https://swicg.github.io/potential-charters/indieweb-wg-charter.html)
-4. [ActivityPub 1.1 Working Group Charter](https://swicg.github.io/potential-charters/ap-1.1-wg-charter.html)
+1. [ActivityPub Working Group Charter](https://swicg.github.io/charters/ap-wg-charter.html) (ActivityPub-only, maintenance only)
+2. [SocialWeb Working Group Charter](https://swicg.github.io/charters/social-web-wg-charter.html) (All Social Web Working Group documents, maintenance only)
+3. [IndieWeb Working Group Charter](https://swicg.github.io/charters/indieweb-wg-charter.html)
+4. [ActivityPub 1.1 Working Group Charter](https://swicg.github.io/charters/ap-1.1-wg-charter.html)
 
 We recommend previewing your own PRs by simply opening the HTML file in a browser
 (locally), and previewing those of others by clicking into the "Files" view of
